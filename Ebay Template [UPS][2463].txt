@@ -1,0 +1,60 @@
+
+<div style="text-align: center; width: 100%; max-width: 1000px; margin: 0 auto; padding: 0; border: 0px solid #000000;">
+        <img src="https://i.ebayimg.com/images/g/kAkAAOSw2TFlQrC6/s-l960.png" alt="Adam's Banner" width="1000" height="330">
+        <div style="display: flex; justify-content: space-between; padding: 20px;">
+            <div style="width: 45%;">
+
+                <h1 style="border-top: 2px solid green; border-bottom: 2px solid green;"><font face="Times New Roman" size="5">Condition & Notes</font></h1>
+
+                <p><font size="4" face="Verdana"><b>Condition: </b>*Condition Placeholder*</font></p><p><font size="4" face="Verdana"><b>Notes: </b>*Description&nbsp;Placeholder*. An original equipment manufacturer (OEM) product.</font></p>
+
+<div><font face="Verdana" size="4"><br></font></div><div><img <img="" src="https://i.ebayimg.com/images/g/3bcAAOSw0G1lQmiy/s-l1600.jpg" alt="Image Placeholder" width="300" height="300" style="border: 2px solid rgb(5, 104, 57);"></div><p></p>
+                <h2 style="border-top: 2px solid green; border-bottom: 2px solid green;"><font face="Times New Roman">Vehicle Information</font></h2>	<h1><EXPANDEDMODELYEAR></h1>
+	
+	<h2></h2>
+	<table>
+		<tr>
+			<th>Make / Model</th>
+			<td><MODEL></td>
+			<th>Year</th>
+			<td><MODELYEAR></td>
+		</tr>
+
+		<tr>
+			<th>Stock Number</th>
+			<td><STOCKNUMBER></td>
+			<th>VIN</th>
+			<td><VIN></td>
+		</tr>
+
+		<tr>
+			<!-- for mechanical parts, include this -->
+			<th>Odometer</th>
+			<td><ODOMETER> km</td>
+			<!-- for body / some interior parts, include this -->
+			<th>Colour</th>
+			<td><COLOR></td>
+		</tr>
+	</table>
+
+	<p><PARTCOMMENTS></p>
+
+                <h2 style="border-top: 2px solid green; border-bottom: 2px solid green;"><font face="Times New Roman">Compatibility</font></h2>
+                <p></p><ul><font face="Verdana" size="4"><p><FIT></p></font></li></ul>
+
+            </div>
+
+            <div style="width: 45%;">
+                <h2 style="border-top: 2px solid green; border-bottom: 2px solid green;"><font face="Times New Roman">Shipping & Handling</font></h2>
+                <span style="color: rgb(53, 53, 53); font-family: Arial; font-size: large; text-align: -webkit-left;">&nbsp;&nbsp;</span><img class="mx-auto d-block img-fluid" data-cke-saved-src="https://dewiso.com/images/shipped.svg" src="https://dewiso.com/images/shipped.svg" alt="Shipping" title="Shipping" style="color: rgb(53, 53, 53); font-family: Arial; font-size: large; text-align: -webkit-left; width: 20%;"><br><ul style="text-align: -webkit-left;"><li><font size="4" face="Verdana"><font color="#056839"><b>FREE</b></font>&nbsp;shipping to 48 U.S. Domestic States.</font></li></ul><ul style="text-align: -webkit-left;"><li><font size="4" face="Verdana">Same-day shipping Monday - Friday if purchased before 3:30 pm EST.</font></li></ul><ul style="text-align: -webkit-left;"><li><font size="4" face="Verdana">Ships with UPS Ground unless requested otherwise.</font></li></ul><ul style="text-align: -webkit-left;"><li><font size="4" color="#154494" face="Verdana"><b>Alaska, Hawaii, and Puerto Rico, please message us for shipping prices.</b></font></li></ul>
+
+                <h2 style="border-top: 2px solid green; border-bottom: 2px solid green;"><font face="Times New Roman">Warranty & Returns</font></h2>
+                <font face="Arial" style="color: #353535"><img class="mx-auto d-block img-fluid" data-cke-saved-src="https://dewiso.com/images/parcel.svg" src="https://dewiso.com/images/parcel.svg" alt="Product" title="Product" style="width: 20%"></font><font face="Verdana" size="4"><br></font><ul style="text-align: -webkit-left;"><li><font size="4" face="Verdana">All pre-owned parts will have normal deterioration, damaged parts will be highlighted in the pictures and the description.</font></li></ul><ul style="text-align: -webkit-left;"><li><font size="4" face="Verdana">30-day return policy.</font></li></ul><ul style="text-align: -webkit-left;"><li><font size="4" face="Verdana">90-day parts warranty.&nbsp;</font><font size="4" face="Verdana" color="#7f160e"><b>*Does not include electrical parts*</b></font></li></ul>
+
+                <h2 style="border-top: 2px solid green; border-bottom: 2px solid green;"><font face="Times New Roman">Contact</font></h2>
+                <p><font face="Arial" style="color: #353535"><img class="mx-auto d-block img-fluid" data-cke-saved-src="https://dewiso.com/images/contact.svg" src="https://dewiso.com/images/contact.svg" alt="Contact" title="Contact" style="width: 20%"></font></p><p><font size="4" face="Verdana">If you have any questions or concerns, please don't hesitate to send us a message, any day or time. We pride ourselves on availability and fast responses.</font></p>
+<br>
+        <!-- New section starts here -->
+        <h2 style="border-top: 2px solid green; border-bottom: 2px solid green;"><font face="Times New Roman">Why Choose Us?</font></h2>
+        <ul>
+            <li><font size="4" color="#056839" face="Verdana"><b>Fast shipping times.</b></font></li><li><font size="4" color="#056839" face="Verdana"><b>Rapid response times.</b></font></li><li><font size="4" color="#056839" face="Verdana"><b>High positive feedback score.</b></font></li><li><font size="4" color="#056839" face="Verdana"><b>Dedicated team of caring professionals.</b></font></li><li><font size="4" color="#056839" face="Verdana"><b>In business for 15+ years.</b></font></li><li><font size="4"><font color="#056839" face="Verdana"><b>Family owned and operated.&nbsp;</b></font></font></li><div style="font-size: large; text-align: -webkit-left;"><span style="color: rgb(255, 106, 53); font-size: x-large;"><font face="Verdana"><br></font></span></div><div style="text-align: -webkit-left;"><font size="4" color="#154494" face="Verdana"><b>[Send us a message anytime to inquire about our inventory, we may have just what you need.]</b></font></div></ul></div>
